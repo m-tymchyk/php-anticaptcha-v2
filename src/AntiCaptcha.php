@@ -9,7 +9,7 @@ class AntiCaptcha
     /**
      * AntiCaptcha constructor.
      */
-    public function __construct($service = null, array $options = [])
+    public function __construct(array $options = [])
     {
         
     }
