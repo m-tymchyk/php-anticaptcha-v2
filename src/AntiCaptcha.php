@@ -1,4 +1,4 @@
-<? namespace AntiCaptchaV2;
+<?php namespace AntiCaptchaV2;
 
 /**
  * Class AntiCaptcha
