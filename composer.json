@@ -1,0 +1,23 @@
+{
+    "name": "reilag/anticaptcha-v2",
+    "type": "library",
+    "description": "AntiCaptcha V2 - Is PHP Library for working with Anticapthca services",
+    "keywords": ["php", "anticaptcha", "anti-captcha", "antigate", "rucaptcha", "anti-captcha api v2"],
+    "homepage": "https://github.com/reilag/php-anticaptcha-v2",
+    "authors": [
+        {
+            "name": "Tymchyk Maksym",
+            "email": "reilag69@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "guzzlehttp/guzzle": "6.2.1",
+        "psr/log": "~1"
+    },
+    "autoload": {
+        "psr-4": {
+            "AntiCaptchaV2\\": "src/"
+        }
+    }
+}
